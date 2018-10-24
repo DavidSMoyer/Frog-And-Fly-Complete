@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\r\n\ 35%\ of\ the\ time\ the\ frog\ will\ turn.\r\n\ 50%\ of\ the\ time\ it\ will\ turn\ right.\r\n\ 50%\ of\ the\ time\ it\ will\ turn\ left.\r\n\ \r\n\ @return\ None\r\n\ @param\ None\ There\ are\ no\ parameters.\r\n
+comment4.params=
+comment4.target=void\ atEdge()
+comment4.text=\r\n\ If\ the\ frog\ is\ at\ the\ edge\ it\ turns.\r\n\ \r\n\ @return\ None.\r\n\ @param\ None\ There\ are\ no\ parameters.\r\n
+comment5.params=
+comment5.target=void\ catchFly()
+comment5.text=\r\n\ If\ the\ frog\ catches\ the\ fly\ the\ game\ stops.\r\n\ \r\n\ @return\ None\r\n\ @param\ None\ There\ are\ no\ parameters.\r\n
+numComments=6

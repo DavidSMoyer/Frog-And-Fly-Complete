@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n\ \r\n\ @return\ None\r\n\ \r\n
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ Updates\ the\ score.\r\n\ \r\n\ @return\ None\r\n\ @param\ None\ There\ are\ no\ parameters.\r\n
+numComments=4
